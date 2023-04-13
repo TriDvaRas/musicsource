@@ -14,5 +14,4 @@ Notable libraries that MusicSource relies on:
 
 ## License
 
-
 [MIT License](LICENSE)
