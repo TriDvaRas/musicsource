@@ -20,7 +20,7 @@ import { SupportService } from '@app/welcome/support.service';
       <div class="left action">
         <app-title>MusicSource</app-title>
         <p class="sub-line">
-          A modern desktop player for your personal music library.
+          A modern desktop player for your personal music library. :)
         </p>
         <p class="support" *ngIf="!supported">
           You current browser or device does not support this application.
