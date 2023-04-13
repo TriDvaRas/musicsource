@@ -1,0 +1,8 @@
+web:
+  hosts:
+    tdr-vapp3:
+      # ansible_host: tdr-vapp3.tridvaras.me
+      ansible_host: 172.31.29.15
+  vars:
+    domain: tdr-vapp3.tridvaras.me
+    ansible_user: ec2-user
